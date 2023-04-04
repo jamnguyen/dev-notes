@@ -1,4 +1,4 @@
-## Conditional React props
+## Conditional React Props
 
 ```ts
 // Page.interface.ts
