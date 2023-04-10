@@ -1,3 +1,3 @@
 # dev-notes
 
-Useful/interesting snippets and notes. Hopefully. 🥹
+Some useful/interesting snippets and notes. Hopefully. 🥹
